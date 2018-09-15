@@ -23,7 +23,7 @@
 - Clone the BlogCast repository:
 
 ```
-git@github.com:codezoned/BlogCast.git
+git clone git@github.com:codezoned/BlogCast.git
 ```
 
 - Install MongoDB if you haven't already
