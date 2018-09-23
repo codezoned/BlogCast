@@ -8,15 +8,17 @@
 > 
 > or just visit [http://talk.codezoned.com](http://talk.codezoned.com)
 
+## Contributers
 
+\[!\[\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/images/0)\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/links/0)\[!\[\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/images/1)\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/links/1)\[!\[\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/images/2)\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/links/2)\[!\[\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/images/3)\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/links/3)\[!\[\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/images/4)\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/links/4)\[!\[\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/images/5)\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/links/5)\[!\[\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/images/6)\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/links/6)\[!\[\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/images/7)\](https://sourcerer.io/fame/ionicc/codezoned/BlogCast/links/7)
 
 ## Built with:
 
-- [Spark](http://sparkjava.com/) : Our Backend/web framework is built on Spark
+- [Spark](http://sparkjava.com/) : Our Backend/web framework is built on Spark
 
-- [FTL](https://freemarker.apache.org/) : Our views are all rendered on FTL
+- [FTL](https://freemarker.apache.org/) : Our views are all rendered on FTL
 
-- [MongoDB](https://freemarker.apache.org/) : Our main data storage is done with MongoDB
+- [MongoDB](https://freemarker.apache.org/) : Our main data storage is done with MongoDB
 
 ## Development:
 
@@ -40,11 +42,7 @@ mongod
 
 - The Blog instance should start in //localhost:PORT
 
-
-
 **The project is in a very alpha stage. So stay away from production :sweat_smile:**
-
-
 
 ## Maintainers:
 
@@ -52,12 +50,10 @@ We're always looking out for people who're enthusiastic to work and collaborate 
 
 - [Rahul Krishnan](https://github.com/rahulkrishnan221)
 
-
-
 ## Contributions
 
-**Contributions** will be opened once the project reaches a less alpha stage :wink:
+This project welcomes contributions and suggestions, we are constructing the contribution guidelines, stay tuned  =).
+
+We use **GitHub issues** for tracking requests and bugs. :wink:
 
 ### Have fun :heart:
-
-
